@@ -1,7 +1,6 @@
 
 import { Grid } from '@mui/material';
 import { Routes, Route } from 'react-router-dom';
-import './App.css';
 import Home from './pages/Home';
 import Posts from './pages/Posts';
 import About from './pages/About';
